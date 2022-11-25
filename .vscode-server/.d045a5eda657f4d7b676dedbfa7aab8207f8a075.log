@@ -1,0 +1,90 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:38525 (IPv4)
+Extension host agent listening on 38525
+
+[17:41:47] Extension host agent started.
+[17:41:47] [127.0.0.1][0b025224][ManagementConnection] New connection established.
+[17:41:47] [127.0.0.1][b3d00626][ExtensionHostConnection] New connection established.
+[17:41:47] [127.0.0.1][b3d00626][ExtensionHostConnection] <8396> Launched Extension Host Process.
+[17:41:49] Deleted from disk ms-python.vscode-pylance /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[17:41:52] Getting Manifest... ms-python.vscode-pylance
+[17:41:52] Getting Manifest... ms-toolsai.jupyter
+[17:41:53] Installing extension: ms-toolsai.jupyter
+[17:41:53] Installing extension: ms-python.vscode-pylance
+[17:41:54] Getting Manifest... ms-python.python
+[17:41:55] Downloaded extension: ms-toolsai.jupyter /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.9.1303220346
+[17:41:58] Extracted extension to /home/nvidia/.vscode-server/extensions/.b08ef0f8-5ff3-43d3-9932-6212a01bd6c8: ms-toolsai.jupyter
+[17:41:58] Renamed to /home/nvidia/.vscode-server/extensions/ms-toolsai.jupyter-2022.9.1303220346
+[17:41:58] Downloaded extension: ms-python.vscode-pylance /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.11.30
+[17:41:58] Extracting completed. ms-toolsai.jupyter
+[17:41:58] Extension installed successfully: ms-toolsai.jupyter
+[17:42:13] Extracted extension to /home/nvidia/.vscode-server/extensions/.0aaff69c-f770-4f5f-8aa4-9b264a31bd45: ms-python.vscode-pylance
+[17:42:15] Renamed to /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.30
+[17:42:15] Extracting completed. ms-python.vscode-pylance
+[17:42:15] Extension installed successfully: ms-python.vscode-pylance

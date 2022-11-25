@@ -1,0 +1,15 @@
+[2022-10-15 13:43:47.987] [remoteagent] [info] Extension host agent started.
+[2022-10-15 13:43:48.870] [remoteagent] [info] [127.0.0.1][9091f87a][ManagementConnection] New connection established.
+[2022-10-15 13:43:48.892] [remoteagent] [info] [127.0.0.1][4ad53961][ExtensionHostConnection] New connection established.
+[2022-10-15 13:43:48.943] [remoteagent] [info] [127.0.0.1][4ad53961][ExtensionHostConnection] <10403> Launched Extension Host Process.
+[2022-10-15 13:45:35.182] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-15 13:54:16.580] [remoteagent] [info] [127.0.0.1][9091f87a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-15 13:54:17.402] [remoteagent] [info] [127.0.0.1][4ad53961][ExtensionHostConnection] <10403> Extension Host Process exited with code: 0, signal: null.
+[2022-10-15 13:54:17.416] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-15 13:54:28.340] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-15 13:54:28.340] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-15 13:54:28.711] [remoteagent] [info] [127.0.0.1][e36f9928][ManagementConnection] New connection established.
+[2022-10-15 13:54:28.735] [remoteagent] [info] [127.0.0.1][32fcbec2][ExtensionHostConnection] New connection established.
+[2022-10-15 13:54:28.975] [remoteagent] [info] [127.0.0.1][32fcbec2][ExtensionHostConnection] <10571> Launched Extension Host Process.
+[2022-10-15 13:57:43.314] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-15 13:59:28.678] [remoteagent] [info] New EH opened, aborting shutdown

@@ -1,0 +1,23 @@
+[Info  - 5:44:24 PM] (8546) Pylance language server 2022.10.30 (pyright 50e12b4b) starting
+[Info  - 5:44:24 PM] (8546) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30/dist
+[Info  - 5:44:24 PM] (8546) Starting service instance "nvidia"
+[Info  - 5:44:24 PM] (8546) Notebook support: LSP
+[Info  - 5:44:24 PM] (8546) Interactive window support: LSP
+[Info  - 5:44:24 PM] (8546) No configuration file found.
+[Info  - 5:44:24 PM] (8546) No pyproject.toml file found.
+[Info  - 5:44:24 PM] (8546) Setting pythonPath for service "nvidia": "/usr/bin/python3"
+[Warn  - 5:44:24 PM] (8546) stubPath /home/nvidia/typings is not a valid directory.
+[Info  - 5:44:24 PM] (8546) Assuming Python version 3.6
+[Info  - 5:44:24 PM] (8546) Assuming Python platform Linux
+[Info  - 5:44:25 PM] (8546) Searching for source files
+[Info  - 5:44:25 PM] (8546) Found 156 source files
+[Info  - 5:44:26 PM] (8546) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30/dist
+[Info  - 5:44:26 PM] (8546) Background analysis(1) started
+[Info  - 5:47:09 PM] (8546) Searching for source files
+[Info  - 5:47:09 PM] (8546) Found 156 source files
+[Info  - 5:59:11 PM] (8546) Searching for source files
+[Info  - 5:59:11 PM] (8546) Found 156 source files
+[Info  - 6:01:14 PM] (8546) Searching for source files
+[Info  - 6:01:14 PM] (8546) Found 156 source files
+[Info  - 6:01:16 PM] (8546) Searching for source files
+[Info  - 6:01:16 PM] (8546) Found 156 source files

@@ -1,0 +1,20 @@
+[2022-11-25 17:41:47.368] [remoteagent] [info] Extension host agent started.
+[2022-11-25 17:41:47.875] [remoteagent] [info] [127.0.0.1][0b025224][ManagementConnection] New connection established.
+[2022-11-25 17:41:47.959] [remoteagent] [info] [127.0.0.1][b3d00626][ExtensionHostConnection] New connection established.
+[2022-11-25 17:41:47.972] [remoteagent] [info] [127.0.0.1][b3d00626][ExtensionHostConnection] <8396> Launched Extension Host Process.
+[2022-11-25 17:41:49.627] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30
+[2022-11-25 17:41:52.815] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-11-25 17:41:52.816] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-11-25 17:41:53.057] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-11-25 17:41:53.175] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-11-25 17:41:54.745] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-11-25 17:41:55.254] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.9.1303220346
+[2022-11-25 17:41:58.447] [remoteagent] [info] Extracted extension to /home/nvidia/.vscode-server/extensions/.b08ef0f8-5ff3-43d3-9932-6212a01bd6c8: ms-toolsai.jupyter
+[2022-11-25 17:41:58.752] [remoteagent] [info] Renamed to /home/nvidia/.vscode-server/extensions/ms-toolsai.jupyter-2022.9.1303220346
+[2022-11-25 17:41:58.753] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.11.30
+[2022-11-25 17:41:58.799] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-11-25 17:41:58.812] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-11-25 17:42:13.332] [remoteagent] [info] Extracted extension to /home/nvidia/.vscode-server/extensions/.0aaff69c-f770-4f5f-8aa4-9b264a31bd45: ms-python.vscode-pylance
+[2022-11-25 17:42:15.122] [remoteagent] [info] Renamed to /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.30
+[2022-11-25 17:42:15.129] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-11-25 17:42:15.148] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
