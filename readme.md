@@ -1,12 +1,12 @@
-# Project Name
+# Facial detection
 
- Add short description of project here > 
+ This project is an AI that detects facial expressions and returns the most likely emotionf based on facial features
 
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+Using a camera or any image of a person's face, the code will attempt to classify the emotion displayed, and return it.
 
 ## Running this project
 
